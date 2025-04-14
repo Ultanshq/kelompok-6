@@ -1,9 +1,6 @@
-# <p><strong> kelompok-6 </strong></p>
-
-Created with CodeSandbox
-Judul : sund resto (Web Memesan Di Sebuah Resto)
-Deskripsi/Role :
--Sultan :
--Rezky :
--Munanzah:
--Rizki m :
+  <h1>Project Web (Sund-Resto)</h1>
+  <p><strong>Anggota:</strong></p>
+    <li><strong>Sultan</strong> : Otak dari web, membuat laporan, membuat PPT</li>
+    <li><strong>Rezky</strong> : Mencari bahan untuk makanan</li>
+    <li><strong>Munanzah</strong> : Konsumsi</li>
+    <li><strong>Rizki M</strong> : Transportasi</li>
