@@ -38,11 +38,6 @@ nav img {
   transition: background-color 0.3s;
 }
 
-.menu a:hover {
-  background-color: #444;
-  border-radius: 5px;
-}
-
 .submenu {
   display: none;
   position: absolute;
